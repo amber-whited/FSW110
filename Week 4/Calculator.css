@@ -1,0 +1,47 @@
+#add {
+margin-left: 600px;
+margin-top: 100px;
+padding-bottom: 50px;
+    color: red;
+}
+
+#btn1 {
+    color: red;
+}
+#add1 {
+    background-color: red;
+}
+#add2 {
+    background-color: red;
+}
+#sub {
+    margin-left: 600px;
+    color: green;
+    padding-bottom: 50px;
+}
+#btn2 {
+    color: green;
+}
+#sub1 {
+    background-color: green;
+}
+#sub2 {
+    background-color: green;
+}
+#mul {
+    margin-left: 600px;
+
+    color: blue;
+}
+#btn3 {
+    color: blue;
+}
+#mul1 {
+    background-color: blue;
+}
+#mul2 {
+    background-color: blue;
+}
+h2 {
+    margin-left: 750px;
+}
